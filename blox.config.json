@@ -1,0 +1,1 @@
+{"name":"f_customer_add_api","type":"function","source":{"https":"https://github.com/neohire/__c_f_customer_add_api","ssh":"git@github.com:neohire/__c_f_customer_add_api.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
